@@ -112,7 +112,7 @@ Art director and lead developer for companies we owned and client projects at pu
 I was salaried in this position as a part-time employee during my junior and senior years of college.
 
 ### Web design and development consulting
-_2008 - much more occassionally as of late_
+_2008 - 2017_
 
 I got my first web design and development freelance contract in 2008 when I was still in high school, and continued doing freelance consulting as a way to supplement my income throughout the rest of high school, college, and even my early full-time career.
 
