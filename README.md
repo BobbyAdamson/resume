@@ -32,7 +32,7 @@ _January 2022 - May 2023_
 **Technologies:**
 Typescript, React, Jest, GraphQL, Nest, Rush
 
-As a member of the internal tools team for Shopify Logistics (6 River Systems acquired by Shopify) I worked on features to help our most advanced users configure and maintain warehouse systems for customers like Disney, Shopify, DHL, Create & Barrel, and more
+As a member of the internal tools team for Shopify Logistics ([6 River Systems acquired by Shopify](https://news.shopify.com/shopify-to-acquire-6-river-systems)) I worked on features to help our most advanced users configure and maintain warehouse systems for customers like Disney, Shopify, DHL, Create & Barrel, and more
 
 - Technical lead on multi-quarter projects that delivered ahead of schedule
 - Redesigned team process to align better with an agile methodology leading to more frequent releases (from one release every ~8 weeks to once every week or two)
