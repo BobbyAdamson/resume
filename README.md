@@ -117,9 +117,12 @@ _2008 - much more occassionally as of late_
 I got my first web design and development freelance contract in 2008 when I was still in high school, and continued doing freelance consulting as a way to supplement my income throughout the rest of high school, college, and even my early full-time career.
 
 ### Internships and less relevant jobs:
-#### Columbia Public Schools: Digital Video and Special Effects instructor, _Jul 2011 - Aug 2011_
-#### Shelter Insurance Companies: Web design intern, _Jul 2010 - Apr 2011_
-#### Zimmer Radio Group:  Web developer intern, _Aug 2009 - Jun 2010_
+#### Columbia Public Schools: 
+Digital Video and Special Effects instructor, _Jul 2011 - Aug 2011_
+#### Shelter Insurance Companies: 
+Web design intern, _Jul 2010 - Apr 2011_
+#### Zimmer Radio Group:  
+Web developer intern, _Aug 2009 - Jun 2010_
 
 ## Education
 
