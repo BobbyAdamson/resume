@@ -9,6 +9,7 @@ I'm a software engineer with a design and advertising background. I'm focused on
 - Unblocking work
 - Writing readable and maintainable code and tests
 - Frequent and effective communication
+- Process-oriented (with flexibility when needed)
 - Mentoring junior engineers
 - Forward-thinking amicable attitude
 
